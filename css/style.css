@@ -1,0 +1,53 @@
+body {
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 400;
+  margin: 0 auto;
+  float: none; }
+  body .header {
+    background-image: url("../images/2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px; }
+    body .header .path {
+      color: #fff; }
+      body .header .path p {
+        padding: 50px 0px 40px 180px; }
+        body .header .path p a {
+          color: #fff;
+          text-decoration: none; }
+    body .header .title h1 {
+      font-family: 'Raleway', sans-serif;
+      font-size: 60px;
+      font-weight: 900;
+      line-height: 70px;
+      color: #fff; }
+  body .main {
+    width: 100%;
+    float: none; }
+    body .main .post {
+      text-align: justify;
+      width: 100%;
+      padding: 80px 0px; }
+    body .main .highlight1 {
+      text-align: justify;
+      width: 100%;
+      padding: 20px 10px;
+      background-color: #ffbe08; }
+    body .main .highlight2 {
+      background-image: url("../images/12.jpg");
+      background-size: cover;
+      color: #fff;
+      width: 100%;
+      padding: 20px 10px; }
+      body .main .highlight2 .highlight2-text {
+        display: inline-flex; }
+        body .main .highlight2 .highlight2-text h1 {
+          font-size: 60px;
+          font-weight: 900;
+          padding-right: 20px; }
+    body .main .links {
+      padding: 0;
+      margin: 0 auto; }
+
+/*# sourceMappingURL=style.css.map */
